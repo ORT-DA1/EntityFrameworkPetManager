@@ -43,3 +43,7 @@ Dicho nombre puede ser fácilmente visto desde SQL Server Management Studio.
 
 ![image](https://github.com/ORT-DA1/EntityFrameworkPetManager/blob/master/img/nombreinstancia.png)
 
+3) Abrir con Visual Studio y compilar.
+
+4) Ejecutar!
+
