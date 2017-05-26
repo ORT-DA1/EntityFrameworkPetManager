@@ -9,6 +9,8 @@ Ejemplo simple de uso de EF Code First armando un administrador de datos de masc
 
 3) Tener el servicio de SQL Server iniciado.
 
+![image](https://github.com/ORT-DA1/EntityFrameworkPetManager/blob/master/img/service.png)
+
 4) Opcional: Se aconseja tener el SQL Server Management Studio para ver de forma simple cómo vamos manipulando la base.
 
 ## Pasos para ejecutar el proyecto:
@@ -39,5 +41,5 @@ Donde dice **GABRIEL** se debe poner el **nombre de su instancia de SQLSERVER**.
 
 Dicho nombre puede ser fácilmente visto desde SQL Server Management Studio.
 
-
+![image](https://github.com/ORT-DA1/EntityFrameworkPetManager/blob/master/img/nombreinstancia.png)
 
